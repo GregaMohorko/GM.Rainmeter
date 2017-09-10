@@ -3,6 +3,8 @@ My Rainmeter skins. They are based on the [Zepha Skin V2](https://ani07789.devia
 
 [![Release](https://img.shields.io/github/release/GregaMohorko/Rainmeter.svg?style=flat-square)](https://github.com/GregaMohorko/Rainmeter/releases/latest)
 
+[Instructions for installation](https://docs.rainmeter.net/manual/installing-skins/#InstallManually)
+
 ## Preview
 ![Desktop preview](/Screenshots/Screenshot%20Desktop.png?raw=true "Desktop preview")
 
