@@ -13,6 +13,9 @@ The main skin with all the main elements. It is always positioned at the horizon
 
 It is designed for computers with 4 CPU cores and 2 disk drives.
 
+## GM.Trash
+![Trash skin](/Screenshots/Screenshot%20Trash.png?raw=true "Trash skin")
+
 ## Installation
 [Instructions for installation (Rainmeter docs)](https://docs.rainmeter.net/manual/installing-skins/#InstallManually)
 
@@ -67,9 +70,6 @@ It is designed for computers with 4 CPU cores and 2 disk drives.
   - If the task fails, restart every: 10 minutes
   - If the task is already running, then the following rule applies: 'Do not start a new instance'
 - OK
-
-## GM.Trash
-![Trash skin](/Screenshots/Screenshot%20Trash.png?raw=true "Trash skin")
 
 ## Author and License
 Grega Mohorko ([www.mohorko.info](https://www.mohorko.info))
