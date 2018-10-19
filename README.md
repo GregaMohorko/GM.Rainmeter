@@ -1,4 +1,4 @@
-# Rainmeter
+# GM.Rainmeter
 My Rainmeter skins. They are based on the [Zepha Skin V2](https://ani07789.deviantart.com/art/Zepha-Skin-V2-Rainmeter-328013162).
 
 [![Release](https://img.shields.io/github/release/GregaMohorko/Rainmeter.svg?style=flat-square)](https://github.com/GregaMohorko/Rainmeter/releases/latest)
