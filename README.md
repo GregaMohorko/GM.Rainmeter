@@ -19,6 +19,8 @@ It is designed for computers with 4 CPU cores and 2 disk drives.
 ## Installation
 [Instructions for installation (Rainmeter docs)](https://docs.rainmeter.net/manual/installing-skins/#InstallManually)
 
+If (after the installation) the degree characters are broken, open the GM.Main.ini in Notepad++ and convert the encoding to ANSI.
+
 ### Additional recommended settings
 #### Sometimes the disk usage meter starts showing wrong percentages. The solution is to refresh the skin. Here are the steps to configure a task scheduled to refresh it once per hour:
 - Open up Task Scheduler
