@@ -13,6 +13,7 @@ The main skin with all the main elements. It is always positioned at the horizon
 
 Variations:
 - 8 CPU cores, 2 disk drives
+- 8 CPU cores, 1 disk drive
 - 4 CPU cores, 2 disk drives
 
 ## GM.Trash
