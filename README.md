@@ -12,6 +12,7 @@ The main skin with all the main elements. It is always positioned at the horizon
 ![Main skin](/Screenshots/Screenshot%20Main.png?raw=true "Main skin")
 
 Variations:
+- 8 CPU cores, 2 disk drives
 - 4 CPU cores, 2 disk drives
 
 ## GM.Trash
